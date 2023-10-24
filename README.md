@@ -1,1 +1,0 @@
-# pasynkov-test
