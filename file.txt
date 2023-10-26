@@ -1,4 +1,5 @@
 line 01
+*** Changes at the beginning of the file ***
 line 02
 line 03
 line 04
@@ -19,4 +20,5 @@ line 16
 line 17
 line 18
 line 19
+*** changes at file end ***
 line 20
