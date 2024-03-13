@@ -10,6 +10,7 @@ line 09
 line 10
 *** Changes made in master branch ***
 *** Changes made in master branch 2 ***
+
 line 11
 line 12
 line 13
